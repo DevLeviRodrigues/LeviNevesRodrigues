@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeviNevesRodrigues
-- 👀 I’m interested in Photoshop, Illustrator, Python and Java
-- 🌱 I’m currently learning Photoshop and Illustrator
+- 👀 I’m interested in Java and I create games
+- 🌱 I’m currently learning Games' Development on Danki Code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
